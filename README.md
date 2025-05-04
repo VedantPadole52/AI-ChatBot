@@ -1,4 +1,4 @@
-**# AI Chatbot Integration Using Gemini API**
+**# AI-Chat-bot Integration Using Gemini API**
 
 This project demonstrates how to integrate the **AI Chatbot** into a web application using the **Gemini API**. The repository provides a basic structure for building an AI-driven chatbot, which can respond to user input in real-time.
 
