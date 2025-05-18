@@ -87,6 +87,4 @@ https://ai-chat-bot-three-ashy.vercel.app/
 ### **Final Thoughts:**
 I used this AI chatbot as a learning tool to understand how to integrate an external API into my own project, which allowed me to add intelligent features to my website. While I didn't build the entire chatbot code, I was able to modify and apply it in real-world use cases.
 
----
-
 
