@@ -1,4 +1,4 @@
-**#AI #ToolAssisted #LearningProject**
+**#AI   #ToolAssisted   #LearningProject**
 # 🤖 Gemini API Chatbot
 
 ### **What I Learned and Integrated:**
