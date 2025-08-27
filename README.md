@@ -1,4 +1,4 @@
-**# AI-Chat-bot Integration Using Gemini API.**
+**#AI #ToolAssisted #LearningProject**
 # 🤖 Gemini API Chatbot
 
 ### **What I Learned and Integrated:**
